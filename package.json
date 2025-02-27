@@ -2,7 +2,7 @@
   "name": "jetbrains-new-dark-alt",
   "displayName": "JetBrains New Dark Alt",
   "description": "A theme for Visual Studio Code that closely resembles the new JetBrains Dark theme with Rubymine tweaks.",
-  "version": "0.0.1",
+  "version": "0.0.7",
   "publisher": "duckworth",
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
       {
         "label": "JetBrains New Dark Alt",
         "uiTheme": "vs-dark",
-        "path": "./themes/JetBrains New Dark-color-theme.json"
+        "path": "./themes/jetbrains-new-dark-alt-color-theme.json"
       }
     ]
   },
