@@ -13,7 +13,7 @@
 				"entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
 			],
 			"settings": {
-				"foreground": "#66A6FF"
+				"foreground": "#FF5733"
 			}
 		},
 		{
@@ -191,6 +191,48 @@
 			"scope": "entity.name.label",
 			"settings": {
 				"foreground": "#C8C8C8"
+			}
+		},
+		{
+			"scope": "entity.name.function.ruby",
+			"settings": {
+				"foreground": "#CF8E6D"  // now amber for methods
+			}
+		},
+		{
+			"scope": "constant.language.symbol.ruby",
+			"settings": {
+				"foreground": "#66A6FF"  // now blue for symbols
+			}
+		},
+		{
+			"scope": "entity.name.type.class.ruby",
+			"settings": {
+				"foreground": "#ffc56d"  // now amber for class names
+			}
+		},
+		{
+			"scope": "entity.other.inherited-class.ruby",
+			"settings": {
+				"foreground": "#fefffa"  // now light color for inherited classes
+			}
+		},
+		{
+			"scope": "variable.ruby",
+			"settings": {
+				"foreground": "#d5af1e"  // color for ruby variables
+			}
+		},
+		{
+			"scope": "constant.language.symbol.hashkey.ruby",
+			"settings": {
+				"foreground": "#66A6FF"  // color for ruby hash keys
+			}
+		},
+		{
+			"scope": "variable.parameter.function.ruby",
+			"settings": {
+				"foreground": "#d5af1e"  // color for ruby function parameters
 			}
 		}
 	],

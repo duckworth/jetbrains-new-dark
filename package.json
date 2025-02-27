@@ -1,30 +1,18 @@
 {
-  "name": "jetbrains-new-dark",
-  "displayName": "JetBrains New Dark",
-  "description": "A theme for Visual Studio Code that closely resembles the new JetBrains Dark theme.",
+  "name": "jetbrains-new-dark-alt",
+  "displayName": "JetBrains New Dark Alt",
+  "description": "A theme for Visual Studio Code that closely resembles the new JetBrains Dark theme with Rubymine tweaks.",
   "version": "0.0.1",
-  "publisher": "MoBalic",
+  "publisher": "duckworth",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mobalti/jetbrains-new-dark"
+    "url": "https://github.com/duckworth/jetbrains-new-dark"
   },
   "engines": {
     "vscode": "^1.78.0"
   },
   "keywords": [
-    "theme",
-    "dark theme",
-    "jetbrains",
-    "webstorm",
-    "intellij",
-    "Darcula",
-    "webstorm dark theme",
-    "intellij dark theme",
-    "Jetbrains dark theme",
-    "webstorm new dark",
-    "intellij new dark",
-    "Jetbrains new dark",
-    "new dark"
+    "Jetbrains new dark"
   ],
   "categories": [
     "Themes"
@@ -32,7 +20,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "JetBrains New Dark",
+        "label": "JetBrains New Dark Alt",
         "uiTheme": "vs-dark",
         "path": "./themes/JetBrains New Dark-color-theme.json"
       }
