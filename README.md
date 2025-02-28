@@ -4,9 +4,14 @@ A theme for Visual Studio Code that closely resembles the new JetBrains Dark the
 **Optional:** For the best experience, consider using the [Jetbrains Mono](https://www.jetbrains.com/lp/mono/) font.
 
 ## Installation
+
+Can be installed from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=bitswapper.jetbrains-new-dark-alt).
+
+Locally, you can install the extension by running the following commands in the root directory of the project:
+
     npm install -g vsce
     npx vsce package
-	code --install-extension jetbrains-new-dark-alt-0.0.8.vsix
+	code --install-extension jetbrains-new-dark-alt-0.0.X.vsix # Replace X with the version number
 
 
 ## Credits
