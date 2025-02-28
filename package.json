@@ -1,12 +1,12 @@
 {
   "name": "jetbrains-new-dark-alt",
   "displayName": "JetBrains New Dark Alt",
-  "description": "A theme for Visual Studio Code that closely resembles the new JetBrains Dark theme with Rubymine tweaks.",
-  "version": "0.0.7",
-  "publisher": "duckworth",
+  "description": "A theme for Visual Studio Code that closely resembles the new JetBrains Dark theme with Ruby additions.",
+  "version": "0.0.8",
+  "publisher": "bitswapper",
   "repository": {
     "type": "git",
-    "url": "https://github.com/duckworth/jetbrains-new-dark"
+    "url": "https://github.com/duckworth/jetbrains-new-dark-alt"
   },
   "engines": {
     "vscode": "^1.78.0"

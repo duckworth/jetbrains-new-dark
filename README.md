@@ -6,4 +6,9 @@ A theme for Visual Studio Code that closely resembles the new JetBrains Dark the
 ## Installation
     npm install -g vsce
     npx vsce package
-	code --install-extension jetbrains-new-dark-alt-0.0.7.vsix
+	code --install-extension jetbrains-new-dark-alt-0.0.8.vsix
+
+
+## Credits
+
+Based on extension created by [Arby](https://github.com/mobalti)
